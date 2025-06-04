@@ -2,5 +2,5 @@ fastapi
 uvicorn
 python-dotenv
 pandas
-supabase-py
+supabase
 
